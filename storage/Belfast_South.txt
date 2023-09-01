@@ -1,0 +1,7 @@
+Black Party: 1.53
+Blue Party: 1.0
+Green Party: 1.1600000000000001
+Red Party: 1.75
+Yellow Party: 1.4
+Male: 2.0
+Female: 1.0
